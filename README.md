@@ -6,7 +6,9 @@
 
 **Domain:** Fintech.
 
-**Problem Statement:** The Phonepe pulse Github repository contains a large amount of data related to
+**Problem Statement:** 
+
+The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner.
 
@@ -37,6 +39,7 @@ transform, and analyze data, and to create a user-friendly dashboard for visuali
 the insights obtained from the data.
 
 **Results:** 
+
 The result of this project will be a live geo visualization dashboard that displays
 information and insights from the Phonepe pulse Github repository in an interactive
 and visually appealing manner. The dashboard will have at least 10 different
