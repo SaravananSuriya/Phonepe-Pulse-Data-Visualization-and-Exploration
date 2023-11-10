@@ -6,6 +6,10 @@
 
 **Domain:** Fintech.
 
+**Dataset Link:** https://github.com/PhonePe/pulse#readme
+
+**Inspired From:** https://www.phonepe.com/pulse/explore/transaction/2022/4/
+
 **Problem Statement:** 
 
 The Phonepe pulse Github repository contains a large amount of data related to
