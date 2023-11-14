@@ -14,8 +14,7 @@ try:
     conn.commit()
 except mysql.connector.Error as err:
     print(f"Error: {err}")
-# except:
-#     pass
+
 
 # to drop the table
 # cursor.execute('drop table agg_tran')
