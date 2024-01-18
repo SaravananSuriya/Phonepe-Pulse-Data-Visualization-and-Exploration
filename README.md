@@ -2,6 +2,8 @@
 
 **Project Title:** Phonepe-Pulse-Data-Visualization-and-Exploration: A User-Friendly Tool Using Streamlit and Plotly.
 
+**Linkedin URL: https://www.linkedin.com/in/saravanan-b-241468269/details/projects/
+
 **Technologies:** Github Cloning, Python, Pandas, MySQL, mysql-connector-python, Streamlit, and Plotly.
 
 **Domain:** Fintech.
